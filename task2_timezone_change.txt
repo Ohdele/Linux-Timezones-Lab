@@ -1,0 +1,30 @@
+--- Task 2: tzselect Output ---
+
+               Local time: Fri 2025-11-07 04:09:18 WAT
+           Universal time: Fri 2025-11-07 03:09:18 UTC
+                 RTC time: Fri 2025-11-07 03:09:18
+                Time zone: Africa/Lagos (WAT, +0100)
+System clock synchronized: yes
+              NTP service: active
+          RTC in local TZ: no
+
+Fri 07 Nov 2025 04:09:18 WAT
+--- Task 2: System Time Info (Before Permanent Change) ---
+               Local time: Fri 2025-11-07 04:09:56 WAT
+           Universal time: Fri 2025-11-07 03:09:56 UTC
+                 RTC time: Fri 2025-11-07 03:09:56
+                Time zone: Africa/Lagos (WAT, +0100)
+System clock synchronized: yes
+              NTP service: active
+          RTC in local TZ: no
+
+Fri 07 Nov 2025 04:09:56 WAT
+               Local time: Fri 2025-11-07 03:11:49 GMT
+           Universal time: Fri 2025-11-07 03:11:49 UTC
+                 RTC time: Fri 2025-11-07 03:11:49
+                Time zone: Europe/London (GMT, +0000)
+System clock synchronized: yes
+              NTP service: active
+          RTC in local TZ: no
+
+Fri 07 Nov 2025 03:12:04 GMT
